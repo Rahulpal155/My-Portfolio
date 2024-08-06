@@ -34,3 +34,6 @@ Contact
 If you have any questions or inquiries, please feel free to reach out to me through the contact information provided in the website or by using the contact form.
 
 Thank you for visiting my personal portfolio repository! I hope you find it informative and visually appealing. 
+
+![image](https://github.com/user-attachments/assets/36d4ef84-8d6b-48ac-b1b8-e38565394b6d)
+
